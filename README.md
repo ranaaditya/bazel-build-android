@@ -2,7 +2,7 @@
 
 ## setup
 ```
-git clone https://ranaaditya/bazel-build-android
+git clone https://github.com/ranaaditya/bazel-build-android
 ```
 ## build
 ```
