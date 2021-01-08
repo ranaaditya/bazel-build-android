@@ -8,7 +8,7 @@ git clone https://github.com/ranaaditya/bazel-build-android
 ```
 npm install -g @bazel/bazelisk
 cd bazel-build-android
-bazel build //app//src/main:app
+bazel build //app/src/main:app
 ```
 
 ## deploying on device
@@ -29,5 +29,5 @@ bazel build //app/src/main:app mobile-install --start_app
 
 ```
 bazel clean
-bazel build //app//src/main:app
+bazel build //app/src/main:app
 ```
