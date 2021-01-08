@@ -12,3 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+bazel-bin/
+bazel-out/
+bazel-testlogs/
+bazel-bazel-build-android/
